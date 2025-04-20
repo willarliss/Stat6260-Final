@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+/old/
+/final_artifacts/old/
+/final_artifacts/*.json
+/final_artifacts/*.keras
